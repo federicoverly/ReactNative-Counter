@@ -1,6 +1,6 @@
 import React, { useState } from 'react'
 import { Text, View, TouchableOpacity, StyleSheet } from 'react-native'
-import { Fab } from './components/Fab'
+import { Fab } from '../components/Fab'
 
 function CounterScreen() {
 
